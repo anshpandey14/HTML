@@ -1,0 +1,39 @@
+table{
+    text-align: center;
+    border: 10px solid;
+    padding: 10px;
+    width:100%;
+}
+.c{
+    background-color: aqua;
+    padding: 5px;
+    font-size: 55px;
+    color: tomato;
+    border: 15px solid;
+}
+.a{
+    background-color: #414141;
+    font-size: 45px;
+    color:skyblue;
+    border: 5px solid rgb(61, 105, 61);
+}
+.b{
+    background-color: #f06363;
+    border: 7px solid rgb(189, 42, 42); 
+    font-size: 36px;
+    color:rgb(141, 16, 16);
+}
+.e{
+    background-color: rgb(214, 214, 68);
+    border-top:10px solid yellowgreen;
+    border-bottom: 10px solid yellowgreen;
+    border-left: 7px solid yellowgreen;
+    border-right: 7px solid yellowgreen;
+}
+.g{
+    font-size:40px;
+    background-color: rgb(46, 168, 87);
+    color:rgb(49, 28, 2);
+    border: 8px solid rgb(201, 99, 99);
+    height: 75px;
+}
